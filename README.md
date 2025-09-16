@@ -31,6 +31,8 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 
 8. **Tabla de performance de vendedores:**  
 
+Tabla interactiva: https://app.powerbi.com/view?r=eyJrIjoiMjBiMmNiNDMtNDE1MC00MjRhLTk5OGItYWI4MGQxMWQ3ZjQzIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9
+
 ---
 
 ## 📈 Dashboard en Tableau
@@ -47,14 +49,17 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 - Gráfica de líneas de productos vendidos por mes.  
 - Tabla de performance de vendedores.  
 
+Tabla interactiva: https://public.tableau.com/views/Dashboardtechstore/Dashboard2?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
 ## ⚖️ Comparación Power BI vs Tableau
 
-Inserción de datos: Mas sencilla desde power bi ya que no hay que definir explicitamente las relaciones en las tablas a diferencia de tableau.
-Campos calculados: Mas fáciles en Tableau que en power bi. 
-Visualización: Mas integrada en power bi ya que se aplican filtros entre las gráficas de forma automática. 
+-Inserción de datos: Mas sencilla desde power bi ya que no hay que definir explicitamente las relaciones en las tablas a diferencia de tableau.
+
+-Campos calculados: Mas fáciles en Tableau que en power bi. 
+
+-Visualización: Mas integrada en power bi ya que se aplican filtros entre las gráficas de forma automática. 
 
 
 

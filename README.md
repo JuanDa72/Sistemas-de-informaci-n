@@ -6,7 +6,7 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 
 ## 📊 Dashboard en Power BI
 
-![Power BI Screenshot](images/Dashboard pi.png)
+![Power BI Screenshot](images/dashboard_pi.png)
 
 **Contenido del dashboard:**
 
@@ -35,7 +35,7 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 
 ## 📈 Dashboard en Tableau
 
-![Tableau Screenshot](images/Dashboard t.png)
+![Tableau Screenshot](images/dashboard_t.png)
 
 **Contenido del dashboard:**
 

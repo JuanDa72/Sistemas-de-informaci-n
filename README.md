@@ -6,7 +6,7 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 
 ## 📊 Dashboard en Power BI
 
-![Power BI Screenshot]('images/Dashboard pi.png')
+![Power BI Screenshot](images/Dashboard pi.png)
 
 **Contenido del dashboard:**
 
@@ -16,26 +16,26 @@ Este laboratorio presenta una comparación entre dos herramientas de **sistemas 
 2. **KPI de cumplimiento unidades vendidas:**  
    - Calculado como la división de las unidades vendidas en los dos primeros meses entre la meta.  
 
-2. **Gráfica de Top 10 productos más vendidos**
+3. **Gráfica de Top 10 productos más vendidos**
 
-3. **Comparación de ventas reales vs. esperadas** para ambos meses mediante un gráfico de barras apiladas.
+4. **Comparación de ventas reales vs. esperadas** para ambos meses mediante un gráfico de barras apiladas.
 
-4. **Diagrama de barras por categoría de productos vendidos**
+5. **Diagrama de barras por categoría de productos vendidos**
 
-5. **Tabla simple de unidades vendidas vs. meta de unidades:**  
+6. **Tabla simple de unidades vendidas vs. meta de unidades:**  
 
-6. **Gráfica de líneas de productos vendidos por mes:**  
+7. **Gráfica de líneas de productos vendidos por mes:**  
    - Eje X: número de mes (1 o 2)  
    - Eje Y: unidades vendidas  
    - Resultado: 29 para el mes 1 y 30 para el mes 2
 
-7. **Tabla de performance de vendedores:**  
+8. **Tabla de performance de vendedores:**  
 
 ---
 
 ## 📈 Dashboard en Tableau
 
-![Tableau Screenshot]('images/Dashboard t.png')
+![Tableau Screenshot](images/Dashboard t.png)
 
 **Contenido del dashboard:**
 

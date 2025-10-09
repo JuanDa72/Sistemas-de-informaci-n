@@ -7,7 +7,7 @@ Ambos obtienen y analizan datos, pero mientras uno se centra en la optimización
 ---
 
 ## ERP (Enterprise Resource Planning)
-Se encarga del control interno de la empresa, la comunicación entre los departamentos y el **manejo de recursos.  
+Se encarga del control interno de la empresa, la comunicación entre los departamentos y el manejo de recursos.  
 Su principal objetivo es optimizar los procesos internos, lo que incluye la reducción de costos y la mejora en la eficiencia operativa.
 
 **Funciones principales:**

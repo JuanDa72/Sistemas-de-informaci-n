@@ -1,5 +1,3 @@
-#AWS Lambda
-
 ## ¿Qué es el Modelo Serverless?
 
 **Serverless** (o "sin servidor") es un modelo de computación en el que el **proveedor de servicios** (AWS, Google Cloud, Azure, etc.) gestiona completamente la infraestructura (servidores, hardware, sistema operativo).
@@ -16,7 +14,7 @@ Una **Función Lambda** es el código que se ejecuta en el entorno Serverless de
 | **Pago por Uso Real:** Solo se cobra por el uso real (tiempo de ejecución y memoria). | **Poco Control:** La administración del servidor la realiza completamente AWS. |
 | **Sin Mantenimiento:** AWS se encarga de todo el mantenimiento de la infraestructura. | **Tiempo Máximo de Uso:** Generalmente limitado (ej. 15 minutos), no ideal para uso prolongado. |
 
-###Lenguajes Soportados
+##Lenguajes Soportados
 
 Soporta una gran variedad de lenguajes de forma nativa:
 * `java`

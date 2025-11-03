@@ -20,7 +20,7 @@ Soporta una gran variedad de lenguajes de forma nativa:
 * `java`
 * `nodejs`
 * `python`
-* `c mas mas xd`
+* `c++`
 * `go`
 * `ruby`
 * `bash`
